@@ -1,4 +1,4 @@
-FROM legsplits/hyve:latest
+FROM mserajnik/hyve:latest
 WORKDIR /usr/src/app/services/web
 ENV VUE_APP_HYVE_API_URL="REEEEEEEEEEEEEEEEEEE" \
     VUE_APP_HYVE_ROBOTS="noindex, nofollow" \
